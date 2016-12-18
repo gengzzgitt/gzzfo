@@ -1,19 +1,18 @@
 ## GZZ
- [editor on GitHub](https://github.com/gengzzgitt/gzzfo/edit/master/index.md)  maintain and preview 
+ [editor](https://github.com/gengzzgitt/gzzfo/edit/master/index.md)  
 
- run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ###  MY First WEB
+
 ONEONEONE
 ```GIVE
 4 3 2 1
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
+# DEAL
+## MATCH
+### BOOK
+- LIST 1
+- List 2
 1. Numbered
 2. List
 
